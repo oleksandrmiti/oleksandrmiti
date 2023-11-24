@@ -1,13 +1,15 @@
 ### Hi there 👋
 ## My name Oleksandr (Sasha) Mitichkin<br>
-I’m currently working on The Kingsley Hotel as an Information Technology Associate.<br>
-I have finished Software Development QQI5 course at Cork College of Commerce.<br> 
-My goal is to become a Java Developer.<br><br>
+I’m currently working at The Kingsley Hotel as a Junior IT Administrator.<br>
+I have finished Software Development course at Cork College of Commerce.<br> 
+Now I'm a Second Year Software Development Honours at MTU.<br>
+Looking for an intership in any tech company related to Software Engineering. <br><br>
 Tech Skills:
 Java |
 Python |
 HTML/CSS |
 JavaScript |
+NodeJS |
 GIT<br>
 📫 How to reach me:<br>
 <a href="https://www.linkedin.com/in/oleksandrmitichkin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" align="center"></a> | <a href="https://www.t.me/golden_parad1se">Telegram</a>
