@@ -6,8 +6,8 @@ Now I'm a Second Year Software Development Honours at MTU.<br>
 Looking for an intership in any tech company related to Software Engineering. <br><br>
 Tech Skills:
 Java |
+C |
 Python |
-HTML/CSS |
 JavaScript |
 NodeJS |
 MySQL |
@@ -17,7 +17,7 @@ GIT<br>
 📫 How to reach me:<br>
 <a href="https://www.linkedin.com/in/oleksandrmitichkin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" align="center"></a> | <a href="https://www.t.me/golden_parad1se">Telegram</a>
 <br>
-My website portfolio coming soon... (NextJs)
+My website portfolio: <a href="https://www.omiti.net/"><img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="https" align="center" height ="40px"></a>
 <!-- <a href="https://www.instagram.com/oleksandrmiti/"><img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width="48"></a>  -->
 <br>Or you can contact me by email <a href="mailto: infoformiti@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"></a><br>
 
