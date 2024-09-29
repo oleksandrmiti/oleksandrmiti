@@ -2,7 +2,7 @@
 ## My name Oleksandr (Sasha) Mitichkin<br>
 I’m currently working at The Kingsley Hotel as a Junior IT Administrator.<br>
 I have finished Software Development course at Cork College of Commerce.<br> 
-Now I'm a Second Year Software Development Honours at MTU.<br>
+Now I'm a Third Year Software Development Honours at MTU.<br>
 Looking for an intership in any tech company related to Software Engineering. <br><br>
 Tech Skills:
 Java |
