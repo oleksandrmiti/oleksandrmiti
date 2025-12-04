@@ -2,13 +2,12 @@
 ## My name Oleksandr (Sasha) Mitichkin<br>
 IT Admin -> Engineering Intern @ ST Engineering iDirect <br>
 I have finished Software Development course at Cork College of Commerce with Destinction.<br> 
-Now I'm a Third Year Software Development Honours student at MTU. (Second Class Honours Grade 1)<br><br>
+Now I'm a Final Year Software Development Honours student at MTU. <br><br>
 Tech Skills:
 Java |
 JavaFX |
 C |
 Python |
-R |
 JavaScript |
 NodeJS |
 React |
