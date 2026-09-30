@@ -1,20 +1,9 @@
 ### Hi there 👋
 ## My name Oleksandr (Sasha) Mitichkin<br>
-IT Admin -> Engineering Intern @ ST Engineering iDirect <br>
-I have finished Software Development course at Cork College of Commerce with Destinction.<br> 
-Now I'm a Final Year Software Development Honours student at MTU. <br><br>
-Tech Skills:
-Java |
-JavaFX |
-C |
-Python |
-JavaScript |
-NodeJS |
-React |
-MySQL |
-PostgreSQL |
-MongoDB |
-GIT<br>
+Associate DevOps Engineer @ ST Engineering iDirect <br>
+BSc (Hons) in Software Development | MTU <br><br>
+Tech Skills: DevSecOps | CI/CD | Jenkins | GitLab CI/CD | SonarQube | Python | Linux | Docker | AWS | Terraform | Git | Java | Node.js | React
+
 📫 How to reach me:<br>
 <a href="https://www.linkedin.com/in/oleksandrmitichkin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" align="center"></a> | <a href="https://www.t.me/golden_parad1se">Telegram</a>
 <br>
